@@ -1,0 +1,12 @@
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/bin/Debug/net6.0/Todo.Domain.deps.json
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/bin/Debug/net6.0/Todo.Domain.dll
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/bin/Debug/net6.0/Todo.Domain.pdb
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.csproj.AssemblyReference.cache
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.AssemblyInfo.cs
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.dll
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/refint/Todo.Domain.dll
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/Todo.Domain.pdb
+/home/felipe/RiderProjects/Todo_API/Solution/Solution/Todo.Domain/obj/Debug/net6.0/ref/Todo.Domain.dll
